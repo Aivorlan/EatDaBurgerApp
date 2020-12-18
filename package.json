@@ -1,0 +1,22 @@
+{
+  "name": "eatdaburgerapp",
+  "version": "1.0.0",
+  "description": "As a burger connoisseur I want to be able to input burgers I'd like to eat\r SO that I can view them on the page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aivorlan/EatDaBurgerApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aivorlan/EatDaBurgerApp/issues"
+  },
+  "homepage": "https://github.com/Aivorlan/EatDaBurgerApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
