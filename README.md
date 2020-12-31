@@ -16,6 +16,7 @@ SO that I can view them on the page
 * Utilized the [MYSQL Heroku Deployment Guide](../../04-Important/MySQLHerokuDeploymentProcess.pdf) in order to deploy this assignment.
 
 ## Preview of working app
+<a href="https://intense-plains-33407.herokuapp.com/">Click Here to view app in Heroku</a>
 
 ## Questions
 
